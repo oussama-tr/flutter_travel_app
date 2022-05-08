@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_travel_app/navpages/bar_item_page.dart';
-import 'package:flutter_travel_app/navpages/home_page.dart';
-import 'package:flutter_travel_app/navpages/my_page.dart';
-import 'package:flutter_travel_app/navpages/search_page.dart';
+import 'package:flutter_travel_app/pages/navpages/bar_item_page.dart';
+import 'package:flutter_travel_app/pages/home_page.dart';
+import 'package:flutter_travel_app/pages/navpages/my_page.dart';
+import 'package:flutter_travel_app/pages/navpages/search_page.dart';
 
 class MainPage extends StatefulWidget {
   MainPage({Key? key}) : super(key: key);
